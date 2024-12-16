@@ -25,7 +25,7 @@ https://s1l3ntc0nquer.github.io/Revershell-Generator/
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/70012972/169376352-e6d6b90e-2e2e-46b0-b6f9-0e3f13713e39.png)
+![image](https://raw.githubusercontent.com/S1l3ntC0nquer/Revershell-Generator/main/assets/revsehll.png)
 
 ## Dev
 
